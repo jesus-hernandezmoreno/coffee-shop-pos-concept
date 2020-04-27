@@ -15,7 +15,7 @@ Desktop:
 
 Mobile:
 
-![mobile-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/coffee-shop-pos-concept/master/src/assets/coffee_shop_concept_mobile.gif)
+![mobile-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/coffee-shop-pos-concept/master/src/assets/coffee_shop_concet_mobile.gif)
 
 ## TO-DO:
 

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coffee-shop-pos-concept/static/css/main.adb523ff.chunk.css",
+    "main.js": "/coffee-shop-pos-concept/static/js/main.4e607168.chunk.js",
+    "main.js.map": "/coffee-shop-pos-concept/static/js/main.4e607168.chunk.js.map",
+    "runtime-main.js": "/coffee-shop-pos-concept/static/js/runtime-main.142563f7.js",
+    "runtime-main.js.map": "/coffee-shop-pos-concept/static/js/runtime-main.142563f7.js.map",
+    "static/css/2.f42e59c9.chunk.css": "/coffee-shop-pos-concept/static/css/2.f42e59c9.chunk.css",
+    "static/js/2.aa972a72.chunk.js": "/coffee-shop-pos-concept/static/js/2.aa972a72.chunk.js",
+    "static/js/2.aa972a72.chunk.js.map": "/coffee-shop-pos-concept/static/js/2.aa972a72.chunk.js.map",
+    "index.html": "/coffee-shop-pos-concept/index.html",
+    "precache-manifest.274655c88305ab9596f25b81f1c4f07f.js": "/coffee-shop-pos-concept/precache-manifest.274655c88305ab9596f25b81f1c4f07f.js",
+    "service-worker.js": "/coffee-shop-pos-concept/service-worker.js",
+    "static/css/2.f42e59c9.chunk.css.map": "/coffee-shop-pos-concept/static/css/2.f42e59c9.chunk.css.map",
+    "static/css/main.adb523ff.chunk.css.map": "/coffee-shop-pos-concept/static/css/main.adb523ff.chunk.css.map",
+    "static/js/2.aa972a72.chunk.js.LICENSE.txt": "/coffee-shop-pos-concept/static/js/2.aa972a72.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/coffee-shop-pos-concept/static/media/logo.f4999f49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142563f7.js",
+    "static/css/2.f42e59c9.chunk.css",
+    "static/js/2.aa972a72.chunk.js",
+    "static/css/main.adb523ff.chunk.css",
+    "static/js/main.4e607168.chunk.js"
+  ]
+}

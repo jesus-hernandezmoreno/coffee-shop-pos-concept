@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar
+    -------------------------------------------------------------------------------*/
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #fafafa;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #895c39;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #895c39;
+}
+
+/* Toastify
+	-------------------------------------------------------------------------------*/
+
+.Toastify__toast-container {
+  width: 400px;
+  z-index: 999;
+}
+
+.Toastify__toast--success {
+  background: #61483a;
+  color: #ddb886;
+}
+
+.Toastify__toast {
+  padding: 1.5rem;
+}
+.Toastify__toast-container--top-center {
+  transform: translateX(-50%);
+  margin: initial;
+}
+.Toastify__toast-body {
+  font-size: 1.8rem;
+  white-space: pre-line;
+  text-align: center;
+}
+
+@media only screen and (max-width: 480px) {
+  .Toastify__toast-container {
+    width: 100vw;
+  }
+  .Toastify__toast-container--top-center {
+    transform: none;
+    margin: initial;
+  }
+}
